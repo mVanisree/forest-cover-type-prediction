@@ -1,0 +1,11 @@
+Feature,Importance
+Elevation,0.240072
+Horizontal_Distance_To_Roadways,0.118071
+Horizontal_Distance_To_Fire_Points,0.11095
+Horizontal_Distance_To_Hydrology,0.060759
+Vertical_Distance_To_Hydrology,0.057779
+Aspect,0.048021
+Hillshade_Noon,0.042969
+Hillshade_9am,0.041077
+Hillshade_3pm,0.040795
+Slope,0.032945

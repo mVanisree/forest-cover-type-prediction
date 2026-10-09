@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1,Weighted F1,Training Time (sec)
+Extra Trees,0.952376,0.92522,0.952162,103.91722
+Random Forest,0.953332,0.924069,0.95309,121.364103
+Hist Gradient Boosting,0.787691,0.736858,0.785842,24.848087
